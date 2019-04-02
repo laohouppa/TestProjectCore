@@ -30,5 +30,10 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+
+        public IActionResult Test1()
+        {
+            return View();
+        }
     }
 }
